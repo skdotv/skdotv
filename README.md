@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @skdotv
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter.How it works under the hood.
 - 💞️ I’m looking to collaborate on Flutter project or any cool repository.
 - 📫 How to reach me drop me mail:vinod.sk.3761@gmail.com
 
