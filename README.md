@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skdotv
+- 👋 Hi, I’m Vinod Khadka
 - 👀 I’m interested in Mobile Development
 - 💞️ I’m looking to collaborate on Flutter project or any cool repository.
 - 📫 How to reach me drop me mail:vinod.sk.3761@gmail.com
