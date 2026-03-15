@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Vinod Khadka
-- 👀 I’m interested in Mobile Development
-- 💞️ I’m looking to collaborate on Flutter project or any cool repository.
-- 📫 How to reach me drop me mail:vinod.sk.3761@gmail.com
+- 👀 I’m interested in AI, Applied AI, LLM, Mobile Engineering.
 
 
 [![@vinod's Holopin board](https://holopin.me/vinod)](https://holopin.io/@vinod)
